@@ -45,7 +45,7 @@ We believe in "Common Wealth"—the value of our code belongs to everyone.
 ---
 
 ## 🔗 Connect With Us
-* **Discord:** [Join the Common Wealth Discord]([https://discord.gg/your-link-here](https://discord.gg/X3Wd7f2PNd))
+* **Discord:** [Join the Common Wealth Discord](https://discord.gg/X3Wd7f2PNd)
 * **Inquiries:** [CWGInteractive@gmail.com]
 * **Website:** Coming Soon
 
